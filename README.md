@@ -1,8 +1,8 @@
-#Project Title: EasyPay Mobile Financial Services App
+# Project Title: EasyPay Mobile Financial Services App
 Welcome to the EasyPay Mobile Financial Services (MFS) App documentation. EasyPay allows customers to conveniently pay any merchant or utility bill, with unique features such as cashback rewards and loan facilities. This document outlines the key functionalities, acceptance criteria, and processes for the EasyPay app.
 
-Table of Contents
-Overview
+# Table of Contents
+[Overview]
 Features
 Payment and Service Charges
 Cashback Rewards
@@ -11,7 +11,7 @@ Acceptance Criteria
 Bug Reports
 Test Cases
 Contributing
-Overview
+[Overview]
 EasyPay is a comprehensive mobile financial services app that offers customers the ability to pay merchants and utility bills with ease. The app includes features like service charges, cashback rewards based on transaction volumes, and loan facilities with flexible repayment options.
 
 Features
