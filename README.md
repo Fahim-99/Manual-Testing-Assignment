@@ -42,7 +42,7 @@ EasyPay is a comprehensive mobile financial services app that offers customers t
 
 ## Acceptance Criteria
 
-The `Acceptance_Criteria.xlsx` file outlines the conditions that must be met for each feature of the EasyPay app to be considered complete. Each criterion ensures that all project requirements are met satisfactorily.
+The `1. Acceptance_Criteria.docx` file outlines the conditions that must be met for each feature of the EasyPay app to be considered complete. Each criterion ensures that all project requirements are met satisfactorily.
 
 ### Columns
 - **Feature**: The specific feature being evaluated.
@@ -54,7 +54,7 @@ The `Acceptance_Criteria.xlsx` file outlines the conditions that must be met for
 
 ## Test Cases
 
-The `Test_Cases.xlsx` file contains all the test cases designed to verify the functionality of the EasyPay app. Each test case includes detailed steps, expected results, and actual results.
+The `2. Test_Cases.xlsx` file contains all the test cases designed to verify the functionality of the EasyPay app. Each test case includes detailed steps, expected results, and actual results.
 
 ### Columns
 - **Test Case ID**: Unique identifier for the test case.
@@ -70,7 +70,7 @@ The `Test_Cases.xlsx` file contains all the test cases designed to verify the fu
 
 ## Bug Reports
 
-The `Bug_Reports.xlsx` file logs all identified bugs, providing detailed information for each bug. This helps in tracking the progress of bug resolution and ensures accountability.
+The `3. Bug_Reports.xlsx` file logs all identified bugs, providing detailed information for each bug. This helps in tracking the progress of bug resolution and ensures accountability.
 
 ### Columns
 - **ID**: Unique identifier for the bug.
