@@ -11,7 +11,6 @@ Welcome to the EasyPay Mobile Financial Services (MFS) App documentation. EasyPa
 - [Acceptance Criteria](#acceptance-criteria)
 - [Bug Reports](#bug-reports)
 - [Test Cases](#test-cases)
-- [Contributing](#contributing)
 
 ## Overview
 
