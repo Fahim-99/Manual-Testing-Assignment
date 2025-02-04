@@ -74,14 +74,15 @@ The `Bug_Reports.xlsx` file logs all identified bugs, providing detailed informa
 ### Columns
 - **ID**: Unique identifier for the bug.
 - **Description**: A brief description of the bug.
-- **Severity**: The impact level of the bug (e.g., Low, Medium, High).
-- **Status**: Current status of the bug (e.g., Open, In Progress, Resolved).
-- **Assigned To**: The person responsible for addressing the bug.
-- **Comments**: Any additional information or comments.
+- **Steps to Reproduce**: Necessary steps for reproduce
+- **Issue Type**: Indicate the issue type(e.g., improvement/ bug)
+- **Priority**: Priority for reproduction(e.g., High, Medium )
+- **Severity**: The impact level of the bug (e.g., Major, Critical).
+- **Actual Result**: What it shows.
+- **Expected Result**: What need to be shows.
+- **Attachment**: Proven file of testing.
 
 [ Bug Reports Example](https://docs.google.com/spreadsheets/d/17wf8uT834wsgMRdRVWuLSg_33LlGig3tkNkJtDeDYaY/edit?gid=0#gid=0)
-
-
 
 
 
