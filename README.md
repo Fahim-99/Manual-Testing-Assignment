@@ -9,8 +9,9 @@ Welcome to the EasyPay Mobile Financial Services (MFS) App documentation. EasyPa
   - [Cashback Rewards](#cashback-rewards)
   - [Loan Facility](#loan-facility)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Bug Reports](#bug-reports)
 - [Test Cases](#test-cases)
+- [Bug Reports](#bug-reports)
+
 
 ## Overview
 
